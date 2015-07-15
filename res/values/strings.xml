@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ASMLibraryActivity!</string>
+    <string name="app_name">EMOsic</string>
+    <string name="title_activity_main">EMOsic</string>
+    <string name="slogan">Music is what feeling sounds like</string>
+    <string name="action_settings">Settings</string>
+	<string name="cloud">#ecf0f1</string>
+</resources>

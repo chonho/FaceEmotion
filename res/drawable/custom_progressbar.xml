@@ -1,0 +1,31 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Define the background properties like color etc -->
+    <item android:id="@android:id/background">
+    <shape>
+        <solid android:color="#0016a085"/>
+    </shape>
+   </item>
+
+  <!-- Define the progress properties like start color, end color etc -->
+  <item android:id="@android:id/progress">
+      <!-- <clip>
+        <shape>
+            <gradient
+                android:startColor="#007A00"
+                android:centerColor="#007A00"
+                android:centerY="1.0"
+                android:endColor="#06101d"
+                android:angle="270"
+            />
+        </shape>
+    </clip> -->
+	      <clip
+		    android:drawable="@drawable/musicbar"
+		    android:clipOrientation="horizontal"
+		    android:gravity="left">
+        </clip>
+		
+		
+    </item>
+</layer-list> 

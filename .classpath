@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/OpenCV Library - 2.4.9"/>
+	<classpathentry kind="lib" path="C:/Program Files/Weka-3-6/weka.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Seanglidet Yean/Desktop/FYP-V4.3-TrainingSVM/libsvm.jar"/>
+	<classpathentry kind="lib" path="libs/achartengine-1.1.0.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
